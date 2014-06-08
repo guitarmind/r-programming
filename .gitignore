@@ -10,3 +10,6 @@
 *.zip
 *.txt
 *.csv
+
+.Rproj.user/
+.Rproj
